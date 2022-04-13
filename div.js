@@ -1,4 +1,4 @@
-function substract()
+function division()
 {
 var a =  document.getElementById("firstno").value
 var b = document.getElmentById("secondno").value
