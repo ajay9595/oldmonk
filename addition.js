@@ -1,7 +1,7 @@
 function add()
 {
   
-var a = document.getElementById("firstnumber").value
+var a = document.getElementById("firstnumber1").value
 var b = document.getElementById("secondnumber").value
 var result
 result = parseInt(a)+parseInt(b)
